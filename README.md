@@ -26,7 +26,7 @@ Draw Rate: 7.3%
 
 Win Rate: 37.44%
 Loss Rate: 54.9%
-Draw Rate:7.66%
+Draw Rate: 7.66%
 
 # Results after 25,000 Iterations
 ![25000graph](https://github.com/saladpalad/blackjack/assets/59659804/f444702e-f865-49bd-a3cb-2d205276a7e2)
