@@ -1,6 +1,6 @@
 # blackjack game
 
-Blackjack card game with a Human & AI aspect
+Blackjack Card Pygame with a Human & AI aspect
 
 # Demo of Player Control
 
