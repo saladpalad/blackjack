@@ -12,7 +12,7 @@ Blackjack Card Game with a Human & AI Aspect
 
 # Explanation of AI aspect
 
-I wanted to show how rigged blackjack is in casinos, so I built a blackjack bot that uses the Monte Carlo reinforcement learning technique, to try to beat the dealer at blackjack. I also configured the game environment, so that the dealer hits on a soft 17, which is a rule commonly enforced in casinos.
+I wanted to learn more about the extent to which the house edge favors casinos, so I built a blackjack bot that uses the Monte Carlo reinforcement learning technique, to try to beat the dealer at blackjack. I also configured the game environment, so that the dealer hits on a soft 17, which is a rule commonly enforced in casinos.
 
 # Results after 1,000 Iterations
 ![1000graph](https://github.com/saladpalad/blackjack/assets/59659804/4b6018ed-ce59-4209-97aa-07901fc45f11)
