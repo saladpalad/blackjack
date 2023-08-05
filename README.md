@@ -8,7 +8,7 @@ Blackjack card game with a Human & AI aspect
 
 # Demo of AI Control
 
-![blackjackai](https://github.com/saladpalad/blackjack/assets/59659804/09c7889b-5ef7-49df-8079-7f3359def69a
+![blackjackai](https://github.com/saladpalad/blackjack/assets/59659804/09c7889b-5ef7-49df-8079-7f3359def69a)
 
 # Explanation of AI aspect
 
