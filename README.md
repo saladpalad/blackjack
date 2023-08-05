@@ -1,6 +1,6 @@
 # blackjack game
 
-Blackjack Card Game with a Human & AI aspect
+Blackjack Card Game with a Human & AI Aspect
 
 # Demo of Player Control
 
